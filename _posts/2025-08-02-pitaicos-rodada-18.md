@@ -1,8 +1,8 @@
 ---
-title: "PitAIcos do Brasileirão - Rodada 18"
-date: 2025-08-02
 layout: post
 ---
+title: "PitAIcos do Brasileirão - Rodada 18"
+date: 2025-08-02
 
 A inteligência artificial chegou a esses pitacos considerando posição na tabela, favoritismo segundo odds recentes e desempenho dos times nas rodadas anteriores. Vamos ver se ela entende de futebol.
 
