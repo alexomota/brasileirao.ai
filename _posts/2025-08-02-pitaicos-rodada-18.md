@@ -1,9 +1,8 @@
 ---
-layout: post
----
+layout: single-column
 title: "PitAIcos do Brasileirão - Rodada 18"
 date: 2025-08-02
-
+---
 A inteligência artificial chegou a esses pitacos considerando posição na tabela, favoritismo segundo odds recentes e desempenho dos times nas rodadas anteriores. Vamos ver se ela entende de futebol.
 
 **Sport x Bahia (Ilha do Retiro):** o lanterna Sport encara o Bahia no G‑4. Com odds de Bahia em torno de 1.72 e Sport em 4.75, o visitante se mostra favorito, embora em campo difícil. Palpite: empate ou vitória do Bahia, placar provável 1‑1 ou 0‑1.
